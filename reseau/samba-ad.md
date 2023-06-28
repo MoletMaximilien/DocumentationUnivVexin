@@ -53,3 +53,7 @@ Par :
 `nameserver 208.67.222.222`
 
 \--
+
+`apt-get update && apt-get upgrade`
+
+`apt-get install python perl acl xattr`
