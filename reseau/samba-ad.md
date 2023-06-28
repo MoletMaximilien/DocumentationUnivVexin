@@ -5,7 +5,9 @@
 Après ce commentaire (# The primary network interface), remplacez :
 
 `allow-hotplug enp0s3`\
-`iface enp0s3 inet dhcp`Par :
+`iface enp0s3 inet dhcp`
+
+Par :
 
 `allow-hotplug enp0s3`\
 `iface enp0s3 inet static`\
