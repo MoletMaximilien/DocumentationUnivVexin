@@ -36,7 +36,7 @@ Dans notre cas, la commande nous renvoie :
 
 Par :&#x20;
 
-`192.168.1.29 scribe.iut.univ-vexin.fr scribe` (l'adresse IP qui correspond à celle du serveur)
+`192.168.1.29 scribe.iut.univ-vexin.fr scribe`
 
 \--
 
